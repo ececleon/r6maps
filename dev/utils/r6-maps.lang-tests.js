@@ -14,6 +14,7 @@
     defaultTerms = R6MapsLangTerms.terms;
     translatedTerms.german = R6MapsLangTermsGerman.terms;
     translatedTerms.french = R6MapsLangTermsFrench.terms;
+    translatedTerms.example = R6MapsLangTermsExample.terms;
     translatedTerms.korean = R6MapsLangTermsKorean.terms;
     translatedTerms.portbrazil = R6MapsLangTermsPortBrazil.terms;
     translatedTerms.russian = R6MapsLangTermsRussian.terms;

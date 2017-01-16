@@ -52,6 +52,7 @@ var R6MapsLangTerms = (function(undefined) {
       languages: {
         en: 'English',
         de: 'Deutsch',
+        ex: 'Example',
         fr: 'Français',
         ja: '日本語',
         kr: '한국어',

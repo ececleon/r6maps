@@ -8,6 +8,7 @@
     R6MapsLangTerms,
     R6MapsLangTermsGerman,
     R6MapsLangTermsFrench,
+    R6MapsLangTermsExample,
     R6MapsLangTermsKorean,
     R6MapsLangTermsPortBrazil,
     R6MapsLangTermsRussian,
@@ -20,6 +21,7 @@
   R6MapsLangTerms,
   R6MapsLangTermsGerman,
   R6MapsLangTermsFrench,
+  R6MapsLangTermsExample,
   R6MapsLangTermsKorean,
   R6MapsLangTermsPortBrazil,
   R6MapsLangTermsRussian,
@@ -36,6 +38,7 @@
         R6MapsLangTerms.terms,
         R6MapsLangTermsGerman.terms,
         R6MapsLangTermsFrench.terms,
+        R6MapsLangTermsExample.terms,
         R6MapsLangTermsKorean.terms,
         R6MapsLangTermsPortBrazil.terms,
         R6MapsLangTermsRussian.terms
